@@ -3,7 +3,7 @@ This penetration testing exercise required me to carry out a penetration test of
 
 A summary of my plan to address this exercise is as following:
 - Systematically scan and enumerate the network with a range of tools to determine what systems are alive and reachable.
-- Research the versions of the existing services, and determine their History and possible vulnerabilities.
+- Research the versions of the existing services, and determine their history and possible vulnerabilities.
 - Find a way to exploit the vulnerabilities, utilising academically respected sources such as CVE and Rapid7.
 - Report such vulnerabilities professionally and propose countermeasures for them.
 
